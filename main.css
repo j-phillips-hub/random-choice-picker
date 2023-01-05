@@ -32,7 +32,8 @@ h3 {
 }
 
 .container {
-  width: 31.25rem;
+  max-width: 500px;
+  padding-inline: 1.25em;
 }
 
 .textarea {
